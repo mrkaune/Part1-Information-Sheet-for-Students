@@ -46,8 +46,8 @@ By adhering to this workflow, the team can efficiently manage their code changes
 Mastering Git not only helps you manage and protect your code but also facilitates team collaboration and project transparency. As highlighted in the source, "You Do, We Do, I Do: A Strategy for Productive Struggle," starting with hands-on practice (You do), moving to collaborative application (We do), and finally receiving guided instruction (I do), can greatly enhance your understanding and proficiency in using Git. It's a vital skill for any aspiring software engineer, ensuring you're well-prepared to manage professional development projects in the future. Embrace the power of source code control—with Git, your code’s history and collaborative potential are just a few commands away.
 
 Sources:
-Sarah McKibben (2017). A Flight Plan for Coding in PreK and Beyond.
-(2020). Design class allows students to choose their own learning adventure.
-(2018). Embed computational thinking into PBL.
-(2019). CT Competencies: Embrace integration across the curriculum.
-Katie J. Waddell (2018). You Do, We Do, I Do: A Strategy for Productive Struggle.
+Sarah McKibben (2017). [A Flight Plan for Coding in PreK and Beyond.](https://www.ascd.org/el/articles/a-flight-plan-for-coding-in-prek-and-beyond)
+(2020). [Design class allows students to choose their own learning adventure.] (https://www.iste.org/explore/iste-standards-action/design-class-allows-students-choose-their-own-learning-adventure)
+(2018). [Embed computational thinking into PBL.] (https://www.iste.org/explore/Computational-Thinking/Embed-computational-thinking-into-PBL)
+(2019). [CT Competencies: Embrace integration across the curriculum.] (https://www.iste.org/explore/empowered-learner/ct-competencies-embrace-integration-across-curriculum)
+Katie J. Waddell (2018). [You Do, We Do, I Do: A Strategy for Productive Struggle.] (https://www.ascd.org/el/articles/you-do-we-do-i-do-a-strategy-for-productive-struggle)
