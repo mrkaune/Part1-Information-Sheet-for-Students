@@ -108,7 +108,11 @@ These exercises, aligned with research-based strategies mentioned in "Using rese
 
 Sources:
 Sarah McKibben (2017). [A Flight Plan for Coding in PreK and Beyond.](https://www.ascd.org/el/articles/a-flight-plan-for-coding-in-prek-and-beyond)
+
 (2018). [Embed computational thinking into PBL.](https://www.iste.org/explore/Computational-Thinking/Embed-computational-thinking-into-PBL)
+
 (2019). [CT Competencies: Embrace integration across the curriculum.](https://www.iste.org/explore/empowered-learner/ct-competencies-embrace-integration-across-curriculum)
+
 Charlie Harper (2017). [The STEAM-Powered Classroom.](https://www.ascd.org/el/articles/the-steam-powered-classroom)
+
 Educational Leadership Staff (2017). [Tell Me About … / A Problem-Solving Activity that Energizes Students.](https://www.ascd.org/el/articles/a-problem-solving-activity-that-energizes-students)
