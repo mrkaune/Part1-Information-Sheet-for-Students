@@ -34,7 +34,7 @@ Source code control, also known as version control, is the management of changes
 
 **Git Implementation**:
 - **Initialize and Clone Repositories**: The team leader creates a new repository on GitHub and shares the repository link with team members. Each member clones this repository to their local machines using `git clone`.
-- **Basic Operations**: Team members work on their tasks. As they edit files, they use `git add` to stage files they've modified and `git commit` to save their changes locally. When ready, they `yse `git push` to send modifications back to the GitHub server.
+- **Basic Operations**: Team members work on their tasks. As they edit files, they use `git add` to stage files they've modified and `git commit` to save their changes locally. When ready, they use `git push` to send modifications back to the GitHub server.
 - **Branching and Merging**: For new features, developers create separate branches using `git branch` and switch between them using `git checkout`. Once a feature is completed and tested, it is merged back into the main branch using `git merge`, ensuring the core application remains stable and new features are integrated smoothly.
 
 By adhering to this workflow, the team can efficiently manage their code changes and integrate contributions from multiple developers without conflicts, thereby maintaining the integrity and continuity of their application.
