@@ -47,7 +47,11 @@ Mastering Git not only helps you manage and protect your code but also facilitat
 
 Sources:
 Sarah McKibben (2017). [A Flight Plan for Coding in PreK and Beyond.](https://www.ascd.org/el/articles/a-flight-plan-for-coding-in-prek-and-beyond)
+
 (2020). [Design class allows students to choose their own learning adventure.] (https://www.iste.org/explore/iste-standards-action/design-class-allows-students-choose-their-own-learning-adventure)
+
 (2018). [Embed computational thinking into PBL.] (https://www.iste.org/explore/Computational-Thinking/Embed-computational-thinking-into-PBL)
+
 (2019). [CT Competencies: Embrace integration across the curriculum.] (https://www.iste.org/explore/empowered-learner/ct-competencies-embrace-integration-across-curriculum)
+
 Katie J. Waddell (2018). [You Do, We Do, I Do: A Strategy for Productive Struggle.] (https://www.ascd.org/el/articles/you-do-we-do-i-do-a-strategy-for-productive-struggle)
