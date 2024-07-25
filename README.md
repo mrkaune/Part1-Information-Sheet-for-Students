@@ -4,7 +4,7 @@ Artifact 1 - This is a one page sheet that would provide a motivating scenario /
 **Student Information Sheet: Implementing Source Code Control with Git**
 
 ---
-![XKCD GitHub Comic]([http://url/to/img.png](https://imgs.xkcd.com/comics/git.png))
+![XKCD GitHub Comic](https://imgs.xkcd.com/comics/git.png)
 ### Learning Goals:
 By the end of this lesson, you will be able to:
 1. Explain the concept of source code control and its importance in software development.
